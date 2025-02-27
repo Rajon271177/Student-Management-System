@@ -1,0 +1,272 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+nav
+{
+    position: fixed;
+    background-color:rgb(4, 92, 165);
+    height: 90px;
+    width: 100%;
+    z-index: 1;
+}
+
+.gb_log
+{
+    padding-left: 20px;
+    padding-top: 6px;
+    width: 90px;
+    height: 85px;
+}
+
+.german_txt
+{
+    position: fixed;
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    line-height: 90px;
+    padding-left: 25px;
+}
+
+ul
+{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+}
+
+ul li
+{
+    display: inline-block;
+    line-height: 90px;
+    margin: 0 5px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+.main_img
+{
+    width:100%;
+    height: 500px;
+}
+
+.welcome_img
+{
+    width: 100%;
+    height: 400px;
+}
+
+.container
+{
+    padding-top: 70px;
+}
+
+.col-md-8
+{
+    padding-top: 75px;
+}
+.mis
+{
+    font-size: 25px;
+    position: relative;
+    left: 39%;
+    color: rgb(61, 58, 58);
+    line-height: 30px;
+}
+
+.student
+{
+    width: 90%;
+    height: 300px;
+}
+
+.label_text
+{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.input_deg
+{
+    width: 30%;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid blue;
+
+    
+}
+.adm_int
+{
+    padding-top: 10px;
+}
+
+.input_txt
+{
+    width: 30%;
+    height: 120px;
+    border-radius: 25px;
+    border: 1px solid blue; 
+}
+
+#submit
+{
+    position: relative;
+    width: 15%;
+    left: 5%;
+}
+
+footer
+{
+    background-color: rgb(190, 177, 177);
+    height: 30px;
+    width: 80%;
+}
+
+.footer_text
+{
+    text-align: right;
+    color: white;
+    top: 20%;
+    position: relative;
+}
+
+.adm
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+
+.stu_txt
+{
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+.welcome
+{
+    font-weight: bold;
+}
+
+.r_nam1
+{
+    font-size: 25px;
+    padding-left: 87px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+.r_nam2
+{
+    font-size: 25px;
+    padding-left: 87px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+.r_nam3
+{
+    font-size: 25px;
+    padding-left: 87px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+
+.r_nam4
+{
+    font-size: 25px;
+    padding-left: 87px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+.r_nam5
+{
+    font-size: 25px;
+    padding-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+.r_nam6
+{
+    font-size: 25px;
+    padding-left: 70px;;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+.r_nam7
+{
+    font-size: 25px;
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+.r_nam8
+{
+    font-size: 25px;
+    padding-left: 87px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    
+}
+.nam_space1
+{
+    padding-left: 115px;
+}
+.nam_space2
+{
+    padding-left: 115px;
+}
+.nam_space3
+{
+    padding-left: 115px;
+}
+.nam_space4
+{
+    padding-left: 115px;
+}
+.nam_space5
+{
+    padding-left: 115px;
+}
+.nam_space6
+{
+    padding-left: 115px;
+}
+.nam_space7
+{
+    padding-left: 115px;
+}
+.nam_space8
+{
+    padding-left: 115px;
+}
+.nam_spacep
+{
+    font-weight: bold;
+    padding-left: 115px;
+    color: brown;
+}
